@@ -40,4 +40,4 @@ jobs:
           push: true
           tags: |
             saraluciaaa/animal-farm-nodejs:latest
-            ghcr.io/SaraLuciaa/animal-farm-nodejs:latest
+            ghcr.io/saraluciaa/animal-farm-nodejs:latest
